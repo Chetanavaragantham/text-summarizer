@@ -1,0 +1,11 @@
+Natural Language Processing, usually shortened as NLP, is a branch of artificial intelligence that deals with the interaction between computers and humans using the natural language. The ultimate objective of NLP is to read, decipher, understand, and make sense of the human languages in a manner that is valuable.
+
+Most NLP techniques rely on machine learning to derive meaning from human languages. In fact, a typical interaction between humans and machines using Natural Language Processing could go as follows. A human talks to the machine. The machine captures the audio. Audio to text conversion takes place. Processing of the text's data. Data to audio conversion takes place. The machine responds to the human by playing the audio file.
+
+NLP entails applying algorithms to identify and extract the natural language rules such that the unstructured language data is converted into a form that computers can understand. When the text has been provided, the computer will utilize algorithms to extract meaning associated with every sentence and collect the essential data from them. Sometimes, the computer may fail to understand the meaning of a sentence well, leading to obscure results.
+
+For instance, a humorous incident occurred in the 1950s during the translation of some words between the English and the Russian languages. Here is the biblical sentence that required translation: "The spirit is willing, but the flesh is weak." When the translation was done and brought back to English, the sentence read: "The vodka is good, but the meat is rotten." There was no understanding of the context.
+
+In recent years, NLP has matured quickly thanks to advances in deep learning. Transformer architectures, large pre-trained language models, and self-supervised learning have all contributed to leaps in machine translation, summarization, question answering, and dialogue systems. Today, NLP underpins almost every consumer-facing voice assistant, search engine, and customer-service bot.
+
+The Text Summarizer described in this project is an extractive summarizer: rather than generating new sentences, it ranks the sentences already in the document and returns the highest-scoring ones. It combines a word-frequency statistic with a proper-noun count, then groups sentences into two clusters with K-Means and picks the top three from the higher-scoring cluster.

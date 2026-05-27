@@ -1,0 +1,4 @@
+nltk>=3.8
+beautifulsoup4>=4.12
+fpdf2>=2.7
+pytest>=7.4
