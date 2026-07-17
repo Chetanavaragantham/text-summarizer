@@ -102,7 +102,7 @@ On the bundled `data/sample.txt` (a short NLP-themed passage, ~7 paragraphs), th
 
 ## 🎓 Academic Context
 
-Built as part of the **B.Tech Computer Science and Engineering** undergraduate program at **ACE Engineering College** (affiliated to JNTU Hyderabad), 2022.
+Built as part of the **B.Tech Computer Science and Engineering** undergraduate program at **ACE Engineering College** (affiliated to JNTU Hyderabad)
 
 This repository is a **reconstruction and documentation pass** of the original four-module project: the module split (Interface / PreProcess / Feature Extraction / Clustering), the algorithms (Porter stemming, NNP boost, K-Means with k=2, top-3 from cluster 1), and the Tkinter GUI all match the original report. The code has been refactored into a proper Python package, two clearly-broken loops in the original have been fixed (documented in `docs/architecture.md`), and a headless CLI and pytest suite have been added.
 
@@ -120,11 +120,5 @@ If I were revisiting this project today, I would:
 ## 👤 Author
 
 **Chetana Varagantham**
-B.Tech Computer Science & Engineering — ACE Engineering College, 2022
-- 📧 [chetanavaragantham02@gmail.com](mailto:chetanavaragantham02@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/chetanavaragantham
-- 🐙 [GitHub](https://github.com/Chetanavaragantham
+B.Tech Computer Science & Engineering — ACE Engineering College
 
-## 📝 License
-
-[MIT](LICENSE)
